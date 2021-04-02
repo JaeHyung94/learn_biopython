@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/parkjaehyung/.local/share/virtualenvs/learn_biopython-IwdTn4hH/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
